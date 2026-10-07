@@ -17,5 +17,7 @@ void main() {
     }
   }
 
-  print(resultado);
+  print('nums1: $nums1');
+  print('nums2: $nums2');
+  print('Intersección: $resultado');
 }
